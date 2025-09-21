@@ -1,7 +1,7 @@
 {
   "name": "02-cli-todo",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple **command-line To-Do app** built with Node.js <br>\r It allows you to add, list, and remove tasks stored in a `tasks.json` file <br>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
