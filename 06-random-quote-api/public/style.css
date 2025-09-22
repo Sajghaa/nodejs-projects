@@ -1,0 +1,53 @@
+/* Lavish styling for Random Quote App */
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.container {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 2rem;
+  border-radius: 15px;
+  text-align: center;
+  width: 400px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+}
+
+h1 {
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+}
+
+.quote-box {
+  margin: 1rem 0;
+  font-size: 1.2rem;
+}
+
+#author {
+  margin-top: 1rem;
+  font-style: italic;
+  color: #ffd700;
+}
+
+button {
+  padding: 0.7rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background: #ffd700;
+  color: #000;
+  font-weight: bold;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+  background: #ffae00;
+}
