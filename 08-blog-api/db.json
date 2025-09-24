@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "content": "Hello world! This is my first blog post."
+    },
+    {
+      "id": 2,
+      "title": "Learning Node.js",
+      "content": "Node.js makes backend development fun!"
+    }
+  ]
+}
