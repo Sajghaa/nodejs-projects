@@ -1,0 +1,16 @@
+{
+  "name": "09-text-manipulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "text-manipulator.js",
+   "bin": {
+    "text-manipulator": "./text-manipulator.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
