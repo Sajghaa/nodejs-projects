@@ -1,0 +1,13 @@
+{
+  "name": "10-event-emitter",
+  "version": "1.0.0",
+  "description": "Basic Node.js EventEmitter example",
+  "main": "event-emitter.js",
+    "scripts": {
+    "start": "node event-emitter.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
